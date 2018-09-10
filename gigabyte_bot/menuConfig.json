@@ -1,0 +1,127 @@
+{
+    "main": {
+        "線上購買": "choose",
+        "訂單查詢":"checkOrder",
+        "刪除訂單":"DelOrder",
+        "常見問答":"FnQ",
+        "服務據點":"serviceLocation",
+        "聯絡我們":"callMe"
+    }, 
+    "notebook": {
+        "AORUS極致效能": "aorus",
+        "AERO輕薄電競": "aero",
+        "SABRE高效電競": "sabre",
+        "P系列便攜商務": "p",
+        "返回主選單": "returnTOmainFORorder"
+    },
+    "AORUS": [
+        {
+            "name": "AORUS X3 Plus v7",
+            "prices": "59900",
+            "Introduction": "NVIDIA®GeForce®GTX1060 GDDR5 6GB \n 第7代英特爾®酷睿™超頻處理器 \n",
+            "picture": "https://store.gigabyte.com/tw_zh/upload/Album/F_20180322115498KHQ24e.JPG"
+        },
+        {
+            "name": "AORUS X5 v7",
+            "prices": "69900",
+            "Introduction": "NVIDIA® GeForce® GTX1070 GDDR5 8GB \n 第7代英特爾®酷睿™i7超頻處理器",
+            "picture": "https://store.gigabyte.com/tw_zh/upload/Album/F_20180322144062mwoMxf.JPG"
+        },
+        {
+            "name": "AORUS X5 V8",
+            "prices": "83900",
+            "Introduction": "NVIDIA® GeForce® GTX 1070 GDDR5 8GB \n 第8代 六核心Intel® Core™ i7-8850H可超頻處理器",
+            "picture": "https://store.gigabyte.com/tw_zh/upload/Album/F_201806271710232MTmPM.JPG"
+        },
+        {
+            "name": "AORUS X5X V6",
+            "prices": "64900",
+            "Introduction": "NVIDIA® GeForce® GTX 1070 GDDR5 8GB \n 第6代 Intel® Core™ i7 超頻處理器",
+            "picture": "https://store.gigabyte.com/tw_zh/upload/Album/F_20180521194618CoG6Q0.PNG"
+        },
+        {
+            "name": "AORUS X7 DT v8",
+            "prices": "101990",
+            "Introduction": "NVIDIA® GeForce® GTX1080 GDDR5X 8GB \n 第8代 六核心Intel® Core™ i7-8850H可超頻處理器",
+            "picture": "https://store.gigabyte.com/tw_zh/upload/Album/F_20180627173189eHsfbP.PNG"
+        },
+        {
+            "name": "AORUS X9 DT",
+            "prices": "124990",
+            "Introduction": "NVIDIA® GeForce® GTX1080 GDDR5X 8GB\n  第8代 Intel® 酷睿™i9 極致超頻處理器i9-8950HK",
+            "picture": "https://store.gigabyte.com/tw_zh/upload/Album/F_20180627172165aAjCko.PNG"
+        }
+    ],
+    "AERO": [
+        {
+            "name": "AERO 15X V8 FHD",
+            "prices": "74900",
+            "Introduction": "NVIDIA® GeForce® GTX 1070 GDDR5 8GB Max-Q架構 \n 第8代Intel® Core™ i7-8750H 處理器",
+            "picture": "https://store.gigabyte.com/tw_zh/upload/Album/F_20180523102398blyjTC.PNG"
+        },
+        {
+            "name": "AERO 15W",
+            "prices": "58900",
+            "Introduction": "NVIDIA® GeForce® GTX 1060 GDDR5 6GB \n 第七代 Intel® Core™ i7-7700HQ 處理器",
+            "picture": "https://store.gigabyte.com/tw_zh/upload/Album/F_201805231022257kZpET.PNG"
+        }
+    ],
+    "SABRE": [
+        {
+            "name": "Sabre 17G",
+            "prices": "33900",
+            "Introduction": "NVIDIA® GeForce® GTX 1050 Ti GDDR5 4GB / GTX 1050 GDDR5 4GB \n 第七代 Intel® Core™ i7-7700HQ 處理器",
+            "picture": "https://store.gigabyte.com/tw_zh/upload/Album/F_20180521165943GDzCaV.PNG"
+        },
+        {
+            "name": "Sabre 15K",
+            "prices": "35900",
+            "Introduction": "NVIDIA® GeForce® GTX 1050 Ti GDDR5 4GB / GTX 1050 GDDR5 2GB \n 第七代 Intel® Core™ i7-7700HQ 處理器",
+            "picture": "https://store.gigabyte.com/tw_zh/upload/Album/F_20180329175127vY3uSd.PNG"
+        },
+        {
+            "name": "Sabre 15G(1T HDD)",
+            "prices": "30900",
+            "Introduction": "VIDIA® GeForce® GTX 1050 Ti GDDR5 4GB / GTX 1050 GDDR5 2GB \n 第七代 Intel® Core™ i7-7700HQ 處理器",
+            "picture": "https://store.gigabyte.com/tw_zh/upload/Album/F_20180417223985rk2Ele.JPG"
+        },
+        {
+            "name": "Sabre 15G(256G SSD)",
+            "prices": "32900",
+            "Introduction": "NVIDIA® GeForce® GTX 1050 Ti GDDR5 4GB / GTX 1050 GDDR5 2GB \n 第七代 Intel® Core™ i7-7700HQ 處理器",
+            "picture": "https://store.gigabyte.com/tw_zh/upload/Album/F_20180417231315rbJ_YD.PNG"
+        }
+    ],
+    "P": [
+        {
+            "name": "P34G v7",
+            "prices": "40900",
+            "Introduction": "NVIDIA® GeForce® GTX 1050 GDDR5 2GB 獨顯 \n 第7代Intel® Core™ i7-7700HQ處理器",
+            "picture": "https://store.gigabyte.com/tw_zh/upload/Album/F_20180328153733Yx8kyM.JPG"
+        }
+    ],
+    "FnQ":{
+            "無法開機": "解決方式：\n\n電源指示燈有亮，代表主機板有過電，但可能因為部分裝置造成無法開機\na. 請移除鋰電池(部份型號無法移除電池，請略過此步驟)，直接使用變壓器供電\nb. 請移除所有外接裝置，包含USB/記憶卡/網路線/HDMI等\nc. 問題發生前，是否有進行擴充硬碟或記憶體，若是有請先回復為出廠預設狀態\n",
+            "電池/變壓器使用方式":"變壓器使用方式:\n\n 1. 請使用技嘉原廠變壓器，避免發生相容性問題\n2. 變壓器使用時盡量不要放置在地上，辦公椅的輪子也很容易傷害電源線，造成電源線接觸不良或是漏電\n3. 不同機型不要混用變壓器，接頭尺寸可能不同，誤插會造成損壞\n4. 變壓器接頭尺寸相同，也要確認電源輸出規格相同(例如 19V/4.74A)。誤用可能會導致變壓器或筆記型電腦損壞\n",
+            "內建/外接耳麥無作用":"音效問題建議先檢查音效設定，及至技嘉官網更新音效驅動\n",
+            "保固資訊":"主機保固：保固 2 年\n配件保固：電池1年，其他隨主機售出之配件（如：變壓器、外接鍵盤組、Docking等）隨主機保固期計算。配件如為單獨購買，則依照單品配件保固期計算。\n贈品不保固：滑鼠及背袋新品不良 7 日內向原經銷商更換。\n備註：\n\n1.電池使用時間與充放電之次數成反比,因此使用時間縮短為正常現象,不屬於 1 年保固範圍。\n2.特殊機種保固請詳閱官網或洽詢客服人員\n",
+            "返回主選單": "returnTOmain"
+        },
+    "serviceLocation": {
+            "台北松江": "台北松江店\n地址：台北市中山區松江路11號\n電話：(02) 2501-9395\n",
+            "新店北新": "新店北新店\n地址：新北市新店區北新路三段 207 號 B2F\n電話：(02) 8913-1113\n",
+            "桃園南平": "桃園南平店\n地址：桃園縣平鎮市南平路 215 號\n電話：(03) 439-3025\n",
+            "台中東興": "台中東興店\n地址：台中市西區東興路三段126之3號3樓\n電話：(04) 2322-5585\n",
+            "台南民權": "台南民權店\n地址：台南市中西區民權路二段12號\n電話：(06) 221-7374\n",
+            "高雄建國": "高雄建國店\n地址：高雄市建國二路 51-1 號\n電話：(07) 235-4340\n",
+            "返回主選單": "returnTOmain"
+        },
+    "callMe": {
+            "技嘉官方網站": "https://www.gigabyte.com/tw",
+            "台灣區服務網網站": "https://service.gigabyte.tw/",
+            "線上表單諮詢": "https://www.gigabyte.com/tw/Support/Technical-Support#",
+            "來電諮詢": "技術服務專線：0800-079-800 或 (02)8913-1377\n\n星期一 ~ 星期五 09:30~20:30 \n星期六 09:30~17:30( 國定假日除外 )\n",
+            "寫信給我": "None",
+            "返回主選單": "returnTOmain"
+        }
+}

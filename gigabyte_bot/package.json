@@ -1,0 +1,29 @@
+{
+  "name": "gigabyte_bot",
+  "version": "1.0.0",
+  "description": "create gigabyte genertor bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js",
+    "debug":"node --inspect app.js"
+  },
+  "author": "Jerry HSU",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "3.12.0",
+    "botbuilder-location": "^2.0.0",
+    "config": "^1.30.0",
+    "jquery": "^3.3.1",
+    "jsdom": "^11.11.0",
+    "mysql": "^2.15.0",
+    "node-uuid": "^1.4.8",
+    "nodemon": "^1.17.5",
+    "open": "0.0.5",
+    "openurl": "^1.1.1",
+    "openurl2": "^1.0.1",
+    "querystring": "^0.2.0",
+    "request": "^2.87.0",
+    "restify": "6.3.2"
+  }
+}
